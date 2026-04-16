@@ -1,1 +1,5 @@
+Jane Smith
+Worked as Data Analyst for 1 year.
 
+Skills: Python, Excel, Basic Machine Learning
+Tools: Pandas, Matplotlib
